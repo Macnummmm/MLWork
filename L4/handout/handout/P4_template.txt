@@ -1,0 +1,5 @@
+'Tasty and Healthy'
+
+{'name':'Kang Saparot', 'description': 'Mussel pineapple curry', 'price': 120},
+{'name':'Jeolhon', 'description': 'Basil spicy hotpot', 'price': 200},
+{'name': 'Sup Kanoon', 'description': 'Smashed jackfruit salad', 'price': 50}

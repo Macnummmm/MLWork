@@ -1,0 +1,8 @@
+'Drinks'
+
+{'name':'Oolong tea', 'description': 'Legendary Oolong', 'price': 40, 'serve_hot': True},
+                        {'name':'English tea', 'description': 'English afternoon tea', 'price': 30, 'serve_hot': True},
+                        {'name': 'Strawberry yogurt', 'description': 'Refreshing strawberry drinking yogurt', 'price': 50, 'serve_hot': False},
+                        {'name': 'Matoom juice', 'description': 'Toxic-cleansing bael juice', 'price': 20, 'serve_hot': False},
+                        {'name':'Ginger tea', 'description': 'Ginger tea, good for digestion', 'price': 45, 'serve_hot': True}
+

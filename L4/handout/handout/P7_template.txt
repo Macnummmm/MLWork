@@ -1,0 +1,5 @@
+'Current revenue ='
+
+	
+print('All table statuses')
+print('{:>6}. {:>10}. {:>10}.'.format('Table', 'Turn-over', 'Occupancy'))
